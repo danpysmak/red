@@ -32,10 +32,11 @@
     "map-sass": "node-sass src/assets/scss/paper-dashboard.scss src/assets/css/paper-dashboard.css --source-map true"
   },
   "jest": {
-    "globals":{
+    "globals": {
       "google": {
       }
-    },
+    }
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
