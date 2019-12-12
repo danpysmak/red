@@ -26,9 +26,6 @@ import {
 	CardBody,
 	CardFooter,
 	CardTitle,
-	FormGroup,
-	Form,
-	Input,
 	Row,
 	Col
 } from 'reactstrap';

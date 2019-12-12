@@ -15,8 +15,8 @@ var ps;
 const config = require('../firebaseKey.json');
 firebase.initializeApp(config);
 const auth = firebase.auth();
-var db = firebase.database();
-var ref = db.ref('/data');
+// var db = firebase.database();
+// var ref = db.ref('/data');
 
 class Dashboard extends React.Component {
 	constructor(props) {

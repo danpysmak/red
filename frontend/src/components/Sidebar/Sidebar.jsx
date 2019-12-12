@@ -55,12 +55,12 @@ class Sidebar extends React.Component {
 				data-active-color={this.props.activeColor}
 			>
 				<div className="logo">
-					<a href="#" className="simple-text logo-mini">
+					<a href="href355" className="simple-text logo-mini">
 						<div className="logo-img">
 							<i className="fa fa-heart heart" />
 						</div>
 					</a>
-					<a href="#" className="simple-text logo-normal">
+					<a href="href356" className="simple-text logo-normal">
 						MeetMe
 					</a>
 				</div>
